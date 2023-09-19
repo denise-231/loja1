@@ -8,8 +8,8 @@ html {
 body, h1, h2, h3, h4, h5, h6,
 p, blockquote, pre, hr,
 dl, dd, ol, ul, figure {
-  margin: 20;
-  padding: 30;
+  margin: 30;
+  padding: 40;
 
 }
 
@@ -20,7 +20,7 @@ dl, dd, ol, ul, figure {
  */
 body {
   font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
-  color: $ #FACC2E;-color;
+  color: $ #fff;-color;
   background-color: $background-color; #ccc
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
